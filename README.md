@@ -23,3 +23,5 @@ https://github.com/3dcitydb/3dcitydb-web-map
 
 3D运算库
 https://github.com/evanw/csg.js  
+
+https://threejs.org/examples/#webgl_modifier_simplifier   
