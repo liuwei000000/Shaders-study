@@ -34,3 +34,8 @@ https://github.com/evanw/csg.js
 
 LOD
 https://threejs.org/examples/#webgl_modifier_simplifier   
+Continous Distance-Dependent LOD (CDLOD) http://vertexasylum.com/2010/07/11/oh-no-another-terrain-rendering-paper/  
+GPU Based Geomety Clipmaps (GPUGCM)  http://hhoppe.com/gpugcm.pdf  
+Chunked LOD http://tulrich.com/geekstuff/sig-notes.pdf  
+>使用OpenGL GPU Tessellation渲染Terrains(书：OpenGL Insight,第10章)   
+Geometrical MipMapping https://www.flipcode.com/archives/article_geomipmaps.pdf   
