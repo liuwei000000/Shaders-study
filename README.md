@@ -37,6 +37,7 @@ https://github.com/evanw/csg.js
 LOD
 https://threejs.org/examples/#webgl_modifier_simplifier   
 https://github.com/jpbetz/synthesis.js?files=1  
+https://github.com/google/draco
 
 Continous Distance-Dependent LOD (CDLOD) http://vertexasylum.com/2010/07/11/oh-no-another-terrain-rendering-paper/  
 GPU Based Geomety Clipmaps (GPUGCM)  http://hhoppe.com/gpugcm.pdf  
