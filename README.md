@@ -47,6 +47,8 @@ Geometrical MipMapping https://www.flipcode.com/archives/article_geomipmaps.pdf
 
 blender游戏引擎插件
 https://github.com/armory3d/armory
+blenderGIS
+https://github.com/domlysz/BlenderGIS
 
 每个都提供了一种渲染地形的独特方式,例如,CDLOD使用着色器(GLSL或HLSL)非常容易实现,但也能够在CPU上实现(对于传统硬件)但是Planet Rendering的目标是爆炸最好使用现代GPU,因此当您想要挤压GPU时,GPUGCM是最好的.它们都可以很好地处理基于数据,程序或混合(基于固定数据或高度图的地形以及添加了程序性工作的细节)渲染大地形.  
 此外,存在基本几何剪贴图方法的球面扩展,但存在一些问题,因为高度图的平面样本必须使用球面坐标进行参数化.  
